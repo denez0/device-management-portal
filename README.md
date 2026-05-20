@@ -59,7 +59,12 @@ npm test
 
 ## Screenshots
 
-_Screenshots will be added here._
+<img width="1919" height="424" alt="Screenshot 2026-05-20 230736" src="https://github.com/user-attachments/assets/db88f709-e273-4047-8358-f42ec5e86e52" />
+
+<img width="1919" height="461" alt="Screenshot 2026-05-20 230723" src="https://github.com/user-attachments/assets/ac9a29b5-0aeb-4db4-9b96-98cec1cf5793" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-05-20 230708" src="https://github.com/user-attachments/assets/a0713cc2-dd9b-4637-b293-50f4c9a9e9f4" />
+
 
 ## AI Disclosure
 
