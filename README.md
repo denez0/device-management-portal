@@ -19,8 +19,8 @@ Also used: next-intl, next-themes, shadcn/ui
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd bosch
+git clone https://github.com/denez0/device-management-portal.git
+cd device-management-portal
 ```
 
 ### 2. Install dependencies
