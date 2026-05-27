@@ -1,5 +1,7 @@
 # Device Management Portal (concept demo)
 
+[![Tests](https://github.com/denez0/device-management-portal/actions/workflows/test.yml/badge.svg)](https://github.com/denez0/device-management-portal/actions/workflows/test.yml)
+
 A fullstack web application inspired by internal IT device portals. Users can view devices, submit support requests, and track orders. Built as a learning project to explore Next.js 14, TypeScript, Prisma, and Tailwind.
 
 ## Technologies
