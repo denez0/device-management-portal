@@ -67,6 +67,8 @@ npm test
 
 <img width="1919" height="1079" alt="Screenshot 2026-05-20 230708" src="https://github.com/user-attachments/assets/a0713cc2-dd9b-4637-b293-50f4c9a9e9f4" />
 
+<img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/9e810c1c-9784-4c1f-b151-b3e34c29db05" />
+
 
 ## AI Disclosure
 
