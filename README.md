@@ -72,20 +72,15 @@ npm test
 
 ## AI Disclosure
 
-This project was developed with assistance from AI coding tools (Cursor + Claude). I focused on architecture decisions, debugging, validation logic, and understanding core concepts like React Server Components, API routes, and database schemas.
+This project was developed with assistance from AI coding tools (Cursor + Claude). I focused on architecture decisions, debugging, validation logic, and understanding core concepts like React Components, API routes, and database schemas.
 
 ## Disclaimer
 
-This is an **independent learning project** created for portfolio purposes. 
+This is an **independent learning project**. 
 
-- Not affiliated with, endorsed by, or connected to **Bosch**, **My Mobile**, or any other company mentioned as inspiration.
-- All trademarks (Bosch, My Mobile, Next.js, etc.) are property of their respective owners.
+- Not affiliated with, endorsed by, or connected to any company.
+- All trademarks (Bosch, My Mobile, etc.) are property of their respective owners.
 - This project contains no proprietary code, assets, or confidential information from any company.
-- Built to demonstrate proficiency with Next.js, TypeScript, Prisma, and modern web development practices.
-
-## Author
-
-Denys Yakovliev – Physics student at University of Warsaw
 
 ## License
 
